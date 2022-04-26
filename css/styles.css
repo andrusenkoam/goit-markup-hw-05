@@ -691,7 +691,6 @@ img {
 
 .close-modal:hover,
 .close-modal:focus {
-  border-color: var(--accent-color);
   fill: var(--accent-color);
 }
 
